@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**boghdadyyousef904-jpg/boghdadyyousef904-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! 👋 I'm Yousef Boghdady
+💻 Cybersecurity Student at the Faculty of Computers and Information, Assiut University.
+🛡️ Passionate about Ethical Hacking, Network Security, and Vulnerability Assessment.
+🤖 Exploring ways to integrate Artificial Intelligence into cybersecurity workflows and daily routine.
+🌐 Core Interests:
+Ethical Hacking & Penetration Testing
+Vulnerability Assessment
+Network Security
+AI in Cybersecurity
+📫 How to reach me:
+LinkedIn:{www.linkedin.com/in/yousef-boghdady-3787a12b5}
+Email:{boghdadyyousef904@gmail.com}
+Let's connect to secure the digital world together! 🚀
